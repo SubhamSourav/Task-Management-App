@@ -1,0 +1,6 @@
+ID,title,descr,task_ID,status_ID
+6e3a1f9a-93d3-4a4d-85f7-85789d1e2c1b,SubTask1,Description for SubTask1,20466921-7d57-4e76-b14c-e53fd97dcb11,1
+b874c6c6-98d7-421a-b295-2f566c3d2f19,SubTask2,Description for SubTask2,20466921-7d57-4e76-b14c-e53fd97dcb11,2
+f90b98bf-6e88-49cd-a7bf-eb7e47c7f832,SubTask3,Description for SubTask3,20466921-7d57-4e76-b14c-e53fd97dcb11,3
+72e8dcb2-aa32-4bea-8db4-fc04f98d06ab,SubTask4,Description for SubTask4,20466921-7d57-4e76-b14c-e53fd97dcb12,2
+d7757f9e-12c8-4f8a-9156-3f9748353b5a,SubTask5,Description for SubTask5,20466921-7d57-4e76-b14c-e53fd97dcb15,3
